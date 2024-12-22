@@ -3,8 +3,7 @@
 **Indexs**
 
 - TP1 : Manipulation d'image
-- TP2 : ...
-- TP3 : ...
+- TP2 : Redréssement d'image
 
 
 **How to run the project**
